@@ -31,6 +31,8 @@ public class Operators {
         boolean result = a>b
         ;
         System.out.println(result);
-
+        int x = 5, y = 2;
+        a = 3; b = 4; 
+        System.out.println((a<b)&&(x>y));
     }
 }
