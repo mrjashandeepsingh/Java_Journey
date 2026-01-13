@@ -26,7 +26,11 @@ public class Operators {
         ++a;
         System.out.println(a);
 
-        System.out.println(!a);
+        System.out.println(a==2);
+        
+        boolean result = a>b
+        ;
+        System.out.println(result);
 
     }
 }

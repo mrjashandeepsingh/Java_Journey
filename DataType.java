@@ -3,6 +3,7 @@ public class DataType {
         // Integer Datatypes 
         int a = 192356;
         byte b = 127;
+        
         short c = 230;
         long d = 234542326;
 
