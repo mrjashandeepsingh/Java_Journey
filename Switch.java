@@ -13,8 +13,8 @@ public class Switch {
         String day = "Mon";
         // New way
         switch (day) {
-            case "Mon" -> System.out.println("6pm");
-            case "Sun" -> System.out.println("8pm");
+            case "Mon" -> {System.out.println("6pm");}
+            case "Sun" -> {System.out.println("8pm");}
         }
 
         // A more new way 
