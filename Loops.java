@@ -9,7 +9,7 @@ public class Loops {
                 j++;
             }
         }
-        i =1;
+        i = 1;
         do {
             System.out.println("Lovely");
             i++;
