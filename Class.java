@@ -16,7 +16,7 @@ class Shopkeeper{
 
 
 public class Class {    
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Shopkeeper shop = new Shopkeeper();
         System.out.println(shop.pen(20));
         System.out.println(shop.notebook(85));

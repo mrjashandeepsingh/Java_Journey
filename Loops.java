@@ -3,6 +3,7 @@ public class Loops {
         int i = 1, j = 1;
         while (i<5) {
             System.out.println("Hi "+i);
+            
             i++;
             while(j<5) {
                 System.out.println("Hello "+j);
