@@ -15,12 +15,12 @@ public class ArrayofObj {
         Student s2 = new Student();
         s2.roll = 2;
         s2.name = "Ishvjot Singh";
-        s2.marks = 97;
+        s2.marks = 99;
 
         Student s3 = new Student();
         s3.roll = 1;
         s3.name = "Krish Jindal";
-        s3.marks = 98;
+        s3.marks = 99;
 
         Student[] studs = new Student[3];
         studs[0] = s1;
